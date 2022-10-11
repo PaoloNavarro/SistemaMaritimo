@@ -1,0 +1,123 @@
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.AssemblyReference.cache
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.clases.Form1.resources
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.GenerateResource.cache
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe.config
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.pdb
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.dll
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.xml
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CopyComplete
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.exe
+C:\Users\raulv\OneDrive\Público\Documentos\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.pdb
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe.config
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.pdb
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.dll
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.xml
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.AssemblyReference.cache
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.GenerateResource.cache
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CopyComplete
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.exe
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.pdb
+C:\Users\fjose\OneDrive\Escritorio\sexto Ciclo\Tecnicas de ingenieria\periodo 2\Proyecto_Tecnicas\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.clases.ConusltaBarcos.resources
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe.config
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.pdb
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.dll
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\Npgsql.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Buffers.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Memory.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Text.Json.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Channels.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\bin\Debug\System.ValueTuple.xml
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.AssemblyReference.cache
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.clases.ConusltaBarcos.resources
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.GenerateResource.cache
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.CopyComplete
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.exe
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.pdb
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.forms.splash.resources
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.forms.principal.resources
+C:\Users\Eterna\Desktop\Proyecto_Tecnicas\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.forms.fPuerto.resources
